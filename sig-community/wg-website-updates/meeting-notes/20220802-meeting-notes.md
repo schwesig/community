@@ -14,3 +14,4 @@
 - Maintaining the github project board
   - PRs happening the last week (blog, templates, some typos)
   - the nav bar on the blog page still visually jumps compared to the other pages
+  - moving issues from the [old repository](operate-first/operate-first.github.io-old) into the current one
